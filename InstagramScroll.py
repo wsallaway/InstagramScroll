@@ -9,9 +9,9 @@ import time
 from getpass import getpass
 
 # Get account information from command line input
-atname="rugdude"
-myname='willyrootbeer'
-pw='Password()'
+atname=input('Account to scroll through: ')
+myname=input('Username: ')
+pw=getpass()
 
 # Open Chrome, go to instagram page
 driver=webdriver.Chrome()
