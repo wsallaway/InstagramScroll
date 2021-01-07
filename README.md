@@ -1,2 +1,6 @@
 # InstagramScroll
-InstagramScroll.py is a script that will open Chrome, log into instagram with info from command line prompts, and will scroll to the oldest post of an account
+A script that scrolls to the oldest post on an instagram page.
+
+## Usage
+Run from the command line with input prompts for the account information.
+
